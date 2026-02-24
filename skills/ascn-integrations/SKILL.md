@@ -1,6 +1,6 @@
 ---
-name: ASCN integrations
-version: 0.0.1
+name: ascn-integrations
+version: 0.0.2
 owner: platform-ai
 maturity: beta
 description: Deterministic guide for designing and delivering new ASCN integrations and wrapping them into user plugins.

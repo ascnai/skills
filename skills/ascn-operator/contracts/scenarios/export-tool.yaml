@@ -1,5 +1,5 @@
 id: export-workflow-tool
-version: 0.0.1
+version: 0.0.2
 description: Ensure an existing workflow is exported as MCP tool and active.
 
 inputs:

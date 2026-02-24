@@ -10,7 +10,8 @@ This repository hosts multiple skills. Treat each folder under `skills/` as an A
 2. For behavior/contract changes, update the skill's `VERSION` and `CHANGELOG.md`.
 3. Keep skill documents internally consistent (`SKILL.md`, `contracts/`, `references/`, `agents/`).
 4. Add or update at least one scenario in `contracts/scenarios/` for behavior changes.
-5. If you add a skill, register it in `.claude-plugin/skills.json` and in root `README.md`.
+5. If you add a skill, register it in `.claude-plugin/skills.json`, `skills/index.yaml`, and root `README.md`.
+6. Run `./scripts/validate-skills.sh` and ensure it passes.
 
 ## Authoring Rules
 

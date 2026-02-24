@@ -12,6 +12,6 @@ Required keys:
 
 Recommended:
 
+- Set `name` to the exact skill directory id (lowercase kebab-case).
 - Keep `version` aligned with the skill's `VERSION` file.
-- Keep `name` human-readable; use folder name as canonical machine id.
 - Use RFC2119 keywords for normative requirements in the skill body.

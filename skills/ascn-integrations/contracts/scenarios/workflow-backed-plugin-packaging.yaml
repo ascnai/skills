@@ -1,5 +1,5 @@
 id: workflow-backed-plugin-packaging
-version: 0.0.1
+version: 0.0.2
 description: Build missing capability using workflow-backed integration and publish as user plugin.
 
 inputs:

@@ -1,6 +1,6 @@
 ---
-name: ASCN operator
-version: 0.0.1
+name: ascn-operator
+version: 0.0.2
 owner: platform-ai
 maturity: beta
 description: Workflow lifecycle and tool-export operator for ASCN workspace MCP control tools.
@@ -62,7 +62,7 @@ If required tools are unavailable, the operator MUST fail fast with a dependency
 
 If capability is insufficient, the operator MUST delegate integration design/implementation to:
 
-1. `skills/skills/ascn-integrations/SKILL.md`
+1. `skills/ascn-integrations/SKILL.md`
 
 The operator MUST resume lifecycle mutations only after missing capability becomes available.
 

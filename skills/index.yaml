@@ -2,13 +2,13 @@ version: 1
 skills:
   - id: ascn-operator
     path: ./ascn-operator
-    version: 0.0.1
+    version: 0.0.2
     owner: platform-ai
     maturity: beta
     description: Workflow lifecycle and tool-export operator for ASCN workspace MCP control tools.
   - id: ascn-integrations
     path: ./ascn-integrations
-    version: 0.0.1
+    version: 0.0.2
     owner: platform-ai
     maturity: beta
-    description: Guide for creating missing integrations and packaging them into user-visible plugins.
+    description: Deterministic guide for designing and delivering new ASCN integrations and wrapping them into user plugins.

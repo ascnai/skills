@@ -1,5 +1,5 @@
 ---
-name: Example skill
+name: example-skill
 version: 0.1.0
 owner: team-name
 maturity: draft

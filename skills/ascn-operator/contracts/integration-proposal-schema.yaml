@@ -1,5 +1,5 @@
 name: integration_proposal_card
-version: 0.0.1
+version: 0.0.2
 type: object
 required:
   - integration_name

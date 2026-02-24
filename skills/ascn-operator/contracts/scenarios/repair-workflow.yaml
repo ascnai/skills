@@ -1,5 +1,5 @@
 id: repair-invalid-workflow
-version: 0.0.1
+version: 0.0.2
 description: Repair an existing workflow with graph/reference validation failures.
 
 inputs:

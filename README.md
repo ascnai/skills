@@ -43,10 +43,13 @@ Current skills:
 2. Fill `SKILL.md`, `contracts/`, and `agents/openai.yaml`.
 3. Add scenario files under `contracts/scenarios/`.
 4. Register the skill in `.claude-plugin/skills.json`.
-5. Update this README catalog.
+5. Register the skill in `skills/index.yaml`.
+6. Update this README catalog.
+7. Run `./scripts/validate-skills.sh`.
 
 ## Compatibility
 
 - Skill folder convention: `skills/<skill-id>/`
 - Each skill must include: `SKILL.md`, `README.md`, `VERSION`, `CHANGELOG.md`, `contracts/`, `references/`, `agents/`
 - Skill docs should use RFC2119 keywords for normative behavior.
+- Validation gate: `./scripts/validate-skills.sh`

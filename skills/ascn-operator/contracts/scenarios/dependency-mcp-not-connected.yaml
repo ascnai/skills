@@ -1,5 +1,5 @@
 id: dependency-mcp-not-connected
-version: 0.0.1
+version: 0.0.2
 description: Skill loaded but workspace MCP gateway is not connected; agent must return connection instructions and stop mutations.
 
 inputs:
